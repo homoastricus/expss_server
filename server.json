@@ -1,0 +1,6 @@
+{
+  "name": "my_x_server",
+  "address": "185.185.70.119",
+  "port": "22444",
+  "web_port": "2022"
+}

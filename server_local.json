@@ -1,0 +1,9 @@
+{
+  "name": "local_server",
+  "address": "127.0.0.1",
+  "port": "3344",
+  "log_file_source": "server.log",
+  "web_port": "2022",
+  "max_connection_lifetime": "10",
+  "max_event_lifetime": "10"
+}
